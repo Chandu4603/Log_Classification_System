@@ -1,5 +1,6 @@
 ## Log Classification With Hybrid Classification Framework
 ---
+
 This project implements a hybrid log classification system, combining three complementary approaches to handle varying levels of complexity in log patterns. The classification methods ensure flexibility and effectiveness in processing predictable, complex, and poorly-labeled data patterns.
     
 ---
@@ -15,5 +16,7 @@ This project implements a hybrid log classification system, combining three comp
 * Used for handling complex patterns when sufficient labeled training data is not available.
 * Provides a fallback or complementary approach to the other methods.
 
-"https://github.com/codebasics/project-nlp-log-classification/blob/main/resources/arch.png"
+<img width="1140" height="703" alt="Screenshot 2026-08-11 223919" src="https://github.com/user-attachments/assets/2dbb0f1c-e93b-4f59-ad7b-349c3ff0ba1b" />
+
+
 
